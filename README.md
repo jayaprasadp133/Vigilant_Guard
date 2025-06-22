@@ -26,5 +26,4 @@ Vigilant Guard is a real-time intelligent anomaly detection system built using P
 
 ---
 
-## 📁 Project Structure
 
